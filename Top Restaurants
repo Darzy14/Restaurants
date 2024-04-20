@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ilocos Sur - Restaurants</title>
+</head>
+<body>
+	<header>
+		<h1>Top Restaurants in Ilocos Sur</h1>
+	</header>
+	<main>
+		<section>
+			<h2>1. Restaurant One</h2>
+			<p>Description of Restaurant One, including location and contact information.</p>
+		</section>
+		<section>
+			<h2>2. Restaurant Two</h2>
+			<p>Description of Restaurant Two, including location and contact information.</p>
+		</section>
+		<section>
+			<h2>3. Restaurant Three</h2>
+			<p>Description of Restaurant Three, including location and contact information.</p>
+		</section>
+	</main>
+	<footer>
+		<p>Copyright © 2023 Ilocos Sur Social Media</p>
+	</footer>
+</body>
+</html>
